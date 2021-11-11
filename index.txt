@@ -1,5 +1,21 @@
 This is a hello world line.
 git config --global user.name "aishwarya"
 git config --global user.email "aishwaryakrhebbar@gmail.com"
-git init
--> initializes an empty
+
+git init-> initializes an empty git repository
+
+git add -> used to add files in the staging area.
+
+git reset ->  used to reset the state of the current working directory and stging area.
+
+git status -> used to find the state of the current working directory and stging area.
+
+git commit -> the command used to save the projects currently staged changes.
+
+git log -> command shows the detailed history of all commits
+
+git log --oneline -> command shows the one line history of all commits.
+
+git remote dd origin https://github.com/K-Aishwarya22/demo.git to dd the repository.
+
+git push -> it is used 
